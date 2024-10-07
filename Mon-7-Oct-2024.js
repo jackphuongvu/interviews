@@ -20,6 +20,18 @@
 // I read that they already
 // Oh, how about not using any single library in JS language. I used to develop as get-it-built developer so I grabed many open-sources libraries as fast as I can. It's a massy amount of effort and life to do it but...
 
-// I need to render an image in this JS file:
-// - this JS is client or server?
-// - What if ...
+// ** I need to render an image in this JS file:
+// 1. this JS is client or server? it's impossible to render on client?
+// 2. What if I upload this image to another server and use their API? 
+// free: Imgur? Github server 2G per file.
+// 3. Do we optimize for this image uploading here? As I documented the history here, it might be a lot.
+// 4. SEO?
+/* it's a blob? link?
+https://github.com/jackphuongvu/interviews/blob/main/Screenshot%202024-10-07%20at%2011.02.32.png
+
+
+*/
+// 5. if this an .md, .html file it's not a big thing.
+// 6. we could render the Pixels of the image, right?
+
+// React: It's built on top of virtual DOM and real DOM?
