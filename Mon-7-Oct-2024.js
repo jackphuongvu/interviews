@@ -35,3 +35,6 @@ https://github.com/jackphuongvu/interviews/blob/main/Screenshot%202024-10-07%20a
 // 6. we could render the Pixels of the image, right?
 
 // React: It's built on top of virtual DOM and real DOM?
+
+// I found this one.
+// https://developer.mozilla.org/en-US/docs/Web/API/ImageData
