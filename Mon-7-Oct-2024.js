@@ -11,6 +11,7 @@
 // I need to eat this Pho(Phở) from yesterday.
 
 /*
+  git config --list
   git config --global user.email "momabz6@gmail.com"
   git config --global user.name "jvu"
 */
@@ -47,3 +48,8 @@ https://github.com/jackphuongvu/interviews/blob/main/Screenshot%202024-10-07%20a
 /*
 My idea is building a programming/gaming town, there is one here but people is working for that one big company.
 */
+// 2:34pm so this site is $9,088 Oh, I should log the coin price.
+// btc: $ 63,607.88 (checked on Binance.com )
+// ethw: $3.15
+
+// reading about Progressive Web Applications (PWA)
