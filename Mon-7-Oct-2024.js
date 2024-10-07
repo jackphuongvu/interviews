@@ -17,4 +17,9 @@
 // It's a writing and also a JS file. I want every pieces of code about a knowledege domain is a part of something bigger. I want to go from the low-level knowledge to the front-end of the end users.
 // Or I could go from new-borns level to senior level. As people scroll from the top of the page to the bottom, they gonna go through a journey about 55 minutes then 5 minutes break.
 // Let's break down Threads
+// I read that they already
+// Oh, how about not using any single library in JS language. I used to develop as get-it-built developer so I grabed many open-sources libraries as fast as I can. It's a massy amount of effort and life to do it but...
 
+// I need to render an image in this JS file:
+// - this JS is client or server?
+// - What if ...
