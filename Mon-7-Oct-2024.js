@@ -14,3 +14,7 @@
   git config --global user.email "momabz6@gmail.com"
   git config --global user.name "jvu"
 */
+// It's a writing and also a JS file. I want every pieces of code about a knowledege domain is a part of something bigger. I want to go from the low-level knowledge to the front-end of the end users.
+// Or I could go from new-borns level to senior level. As people scroll from the top of the page to the bottom, they gonna go through a journey about 55 minutes then 5 minutes break.
+// Let's break down Threads
+
