@@ -38,3 +38,12 @@ https://github.com/jackphuongvu/interviews/blob/main/Screenshot%202024-10-07%20a
 
 // I found this one.
 // https://developer.mozilla.org/en-US/docs/Web/API/ImageData
+
+// my bad. I read No Excuses book and I supposed to say "I'm responsible", I want a software that it rewrite my words as soon as I finish the last keystrokes. It's not allowed to be let out.
+// need a Dark theme (for the eyes.)
+
+// 2:09pm: AI will replace tasks that doesn't require generate new solutions/math concepts but the knowledge communication and collab is not going anywhere?
+// 2:17pm water, a chocolate egg (1/4 of chick egg)
+/*
+My idea is building a programming/gaming town, there is one here but people is working for that one big company.
+*/
